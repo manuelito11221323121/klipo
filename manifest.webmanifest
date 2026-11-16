@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Klipo — Editor de video",
+  "short_name": "Klipo",
+  "description": "Editor de video en el navegador: corta, pon subtítulos automáticos, efectos, filtros y exporta en 4K. Todo en tu equipo.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0b18",
+  "theme_color": "#0b0b18",
+  "categories": ["photo", "video", "productivity", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
