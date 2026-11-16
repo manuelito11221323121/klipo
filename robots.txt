@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manuelito11221323121.github.io/klipo/sitemap.xml
