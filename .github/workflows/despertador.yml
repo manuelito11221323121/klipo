@@ -1,0 +1,12 @@
+# Mantiene despierto el servidor gratis de Klipo en Render (se duerme tras 15 min sin visitas).
+name: Despertador del servidor
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - run: curl -fsS --max-time 120 https://klipo-oc9s.onrender.com/api/health || true
