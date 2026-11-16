@@ -134,6 +134,15 @@ details p { color: var(--muted); margin: 10px 0 0; }
 .doc .note { border-left: 4px solid var(--brand); background: var(--card); padding: 14px 18px; border-radius: 0 14px 14px 0; }
 .ad-slot { margin: 32px 0; min-height: 90px; border: 1px dashed var(--line); border-radius: 14px; display: grid; place-items: center; color: var(--muted); font-size: 12px; }
 .ad-slot:has(ins) { border: 0; }
+.ad-house { position: relative; display: flex; align-items: center; gap: 16px; padding: 18px 20px; border: 1px solid var(--line); background: linear-gradient(120deg, rgba(127,92,255,.16), rgba(255,77,136,.10)); text-align: left; color: inherit; }
+.ad-house.ad-apk { background: linear-gradient(120deg, rgba(16,185,129,.18), rgba(34,211,238,.10)); }
+.ad-house.ad-win { background: linear-gradient(120deg, rgba(34,211,238,.16), rgba(127,92,255,.12)); }
+.ad-house .ad-tag { position: absolute; top: 6px; right: 10px; font-size: 10px; letter-spacing: .04em; color: var(--muted); text-transform: uppercase; }
+.ad-house .ad-ico { font-size: 34px; }
+.ad-house .ad-txt { flex: 1; display: grid; gap: 2px; }
+.ad-house .ad-txt b { font-size: 16px; }
+.ad-house .ad-txt small { color: var(--muted); font-size: 13px; }
+@media (max-width: 560px) { .ad-house { flex-wrap: wrap; } .ad-house .btn { width: 100%; text-align: center; } }
 .guides { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
 .guide { text-decoration: none; color: inherit; transition: transform 0.15s, border-color 0.15s; }
 .guide:hover { transform: translateY(-3px); border-color: var(--brand); }
