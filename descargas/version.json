@@ -1,6 +1,6 @@
 {
-  "build": 19,
-  "version": "1.2.1",
+  "build": 20,
+  "version": "1.2.2",
   "size": "24.8 MB",
-  "notes": "Exportar en 1080 en más teléfonos, AutoCut más natural y menos pesado"
+  "notes": "Pantalla de exportación nueva y arreglo: en el teléfono ya exporta y guarda en tu galería"
 }
