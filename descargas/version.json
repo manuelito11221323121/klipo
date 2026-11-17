@@ -1,6 +1,6 @@
 {
-  "build": 23,
-  "version": "1.2.5",
+  "build": 24,
+  "version": "1.2.6",
   "size": "25.6 MB",
-  "notes": "Arreglos de exportar, subtítulos y visor; Mejorar calidad de fotos y 14 tipografías lindas"
+  "notes": "Subtítulos palabra por palabra en un solo clip por frase: el timeline queda limpio"
 }
