@@ -256,3 +256,6 @@ footer a:hover { color: var(--text); }
   .tools { grid-template-columns: 1fr; }
   .stats { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* Marca arriba del título principal (también ayuda a que Google asocie «Klipo» con «editor de videos») */
+.brand-h1 { display: block; font-size: .42em; font-weight: 700; letter-spacing: .02em; opacity: .85; margin-bottom: .35em; }
