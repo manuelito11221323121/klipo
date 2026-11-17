@@ -1,6 +1,6 @@
 {
-  "build": 17,
-  "version": "1.1.7",
-  "size": "25.0 MB",
-  "notes": "Quitar fondo, seguir rostros, voz IA, capítulos y subtítulos que siguen al video"
+  "build": 18,
+  "version": "1.2.0",
+  "size": "24.8 MB",
+  "notes": "Nuevo diseño oscuro, AutoCut, capas, stickers, 64 efectos de texto y 73 estilos de subtítulos"
 }
