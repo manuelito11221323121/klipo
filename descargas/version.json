@@ -1,6 +1,6 @@
 {
-  "build": 29,
-  "version": "1.3.3",
+  "build": 30,
+  "version": "1.3.4",
   "size": "21.8 MB",
-  "notes": "Quita la barra con el logo que salía arriba de la app"
+  "notes": "Inicio de sesión con Google arreglado y avisos más claros al entrar"
 }
