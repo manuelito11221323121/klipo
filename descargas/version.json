@@ -1,6 +1,6 @@
 {
-  "build": 21,
-  "version": "1.2.3",
+  "build": 22,
+  "version": "1.2.4",
   "size": "24.8 MB",
-  "notes": "App más rápida y ligera en el teléfono: abre antes, se calienta menos y va más fluida"
+  "notes": "Editor simple de subtítulos: cambia tamaño, letra, color y posición de todos a la vez"
 }
