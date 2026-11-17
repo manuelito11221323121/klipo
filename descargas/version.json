@@ -1,6 +1,6 @@
 {
-  "build": 28,
-  "version": "1.3.2",
+  "build": 29,
+  "version": "1.3.3",
   "size": "21.8 MB",
-  "notes": "Corrige una franja con el logo arriba de la app"
+  "notes": "Quita la barra con el logo que salía arriba de la app"
 }
