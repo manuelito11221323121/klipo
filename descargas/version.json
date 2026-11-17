@@ -1,6 +1,6 @@
 {
-  "build": 24,
-  "version": "1.2.6",
+  "build": 25,
+  "version": "1.2.7",
   "size": "25.6 MB",
-  "notes": "Subtítulos palabra por palabra en un solo clip por frase: el timeline queda limpio"
+  "notes": "La onda de audio del timeline ya coincide con el sonido real: cortes precisos"
 }
